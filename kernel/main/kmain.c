@@ -129,6 +129,7 @@ bootstrap(int arg1, void *arg2)
         pt_template_init();
 
         NOT_YET_IMPLEMENTED("PROCS: bootstrap");
+        //Started coding 1st OS assignment ever
 
         panic("weenix returned to bootstrap()!!! BAD!!!\n");
         return NULL;
