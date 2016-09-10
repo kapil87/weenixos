@@ -130,7 +130,8 @@ bootstrap(int arg1, void *arg2)
 
         NOT_YET_IMPLEMENTED("PROCS: bootstrap");
         //Started coding 1st OS assignment ever
-
+        //Check ssh keys are proper
+        
         panic("weenix returned to bootstrap()!!! BAD!!!\n");
         return NULL;
 }
